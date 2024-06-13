@@ -1,3 +1,15 @@
+# DarkSea Market on DFAres
+
+todo:  
+1. game client need to support info of Confirm Transaction
+2. info details
+
+```javascript
+export { default } from "http://127.0.0.1:2222/DarkSeaMarketPlugin.js?dev";
+
+```
+
+# Classic DarkSea Market
 <div align="center">
 	<img width="400" src="https://user-images.githubusercontent.com/3327253/130274396-5b016393-d6f2-4eba-9660-92a2983c8dd5.jpg" alt="DarkSea Market">
 </div>
